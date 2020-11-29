@@ -9752,7 +9752,7 @@
         "manualBake": false,
         "args": []
     },
-    "删除空格/换行": {
+    "Remove whitespace": {
         "module": "Default",
         "description": "(可选)从输入数据中删除所有空格,回车符,换行符,制表符和换页符。<br> <br>此操作还支持删除句点,有时用于表示ASCII输出中不可打印的字节。",
         "infoURL": null,

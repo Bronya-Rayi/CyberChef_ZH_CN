@@ -6,10 +6,20 @@
 
 有翻译错或者bug之类的地方还请各位大佬多多海涵
 
+中文语言文件在`./src/core/config/OperationConfig_zh.json`
+
 ![](./images/1.jpg)
 
 ![](./images/2.jpg)
 
 ![](./images/3.jpg)
+
+```bash
+#Install
+> npm install
+> grunt prod
+```
+
+
 
 > 原链接：https://github.com/gchq/CyberChef
